@@ -4,4 +4,4 @@ Implementation of the paper published at ICDM, titled "Reliable Semi-supervised 
 The main algorithm is in the file ReSSL, to run the code, you only have to write a testing file.
 
 While, I find the final results is different from the results presented in the original paper, Willing anyone help find the question? 
-if this project helped you, please light up the star, thanks.
+If this project helped you, please light up the star, thanks.
