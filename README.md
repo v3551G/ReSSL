@@ -11,3 +11,4 @@ If this project helped you, please light up the star, thanks.
 \nJenkins Server hook test2!
 test rebase i3
 test jenkins trigger
+test jenkins trigger
