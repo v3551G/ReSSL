@@ -10,3 +10,4 @@ If this project helped you, please light up the star, thanks.
 测试: 修改2Jenkins Server hook test!
 \nJenkins Server hook test2!
 test rebase i3
+test jenkins trigger
